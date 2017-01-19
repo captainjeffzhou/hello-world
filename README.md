@@ -1,3 +1,4 @@
 # hello-world
-first git
+first git;
+
 a = a + b;
